@@ -1,9 +1,9 @@
 # Show the workd what you can do for them
 
-##Form a team
+## Form a team
 
-##Explain what you can do for them - Value proposition 
+## Explain what you can do for them - Value proposition 
 
-##Introduce your team - what are your individual skills, link to your portfolios? 
+## Introduce your team - what are your individual skills, link to your portfolios? 
 
-##Tell them where to find you - email, phone, whatsapp 
+## Tell them where to find you - email, phone, whatsapp 
