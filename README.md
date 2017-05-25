@@ -1,4 +1,4 @@
-# Show the workd what you can do for them
+# Show the world what you can do for them
 
 ## Form a team
 
